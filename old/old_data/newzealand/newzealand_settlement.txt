@@ -1,0 +1,24 @@
+diff --git a/data/newzealand/newzealand_settlement.txt b/data/newzealand/newzealand_settlement.txt
+new file mode 100644
+index 0000000..3333333
+--- /dev/null
++++ b/data/newzealand/newzealand_settlement.txt
+@@
++[Accommodation]
++- 백팩커(호스텔): 초기 정착 및 단기 체류
++- 플랫(쉐어하우스): 워홀러 가장 일반적인 주거 형태
++- 지역·도시별 임대료 편차 큼
++
++[Mobile & Internet]
++- 주요 통신사: Spark, One NZ, 2degrees
++- 선불 요금제 일반적, 28일 단위 충전
++
++[Bank Account]
++- 여권 및 비자 지참 후 현지 은행에서 개설
++- 주요 은행: ANZ, ASB, Westpac
++- EFTPOS 카드 사용 보편화
++
++[Transport]
++- 대중교통은 도시 중심, 외곽은 차량 필요
++- 좌측 통행 국가
++- 국제운전면허증 사용 가능

@@ -1,0 +1,22 @@
+diff --git a/data/newzealand/newzealand_safety.txt b/data/newzealand/newzealand_safety.txt
+new file mode 100644
+index 0000000..5555555
+--- /dev/null
++++ b/data/newzealand/newzealand_safety.txt
+@@
++[Emergency]
++- 경찰·구급·소방: 111
++- 비긴급 신고: 105
++
++[Traffic Safety]
++- 좌측 통행
++- 회전교차로(Roundabout) 다수
++- 장거리 운전 시 피로 누적 주의
++
++[Natural Disasters]
++- 지진 발생 빈도 높음
++- 쓰나미·산사태 발생 가능 지역 존재
++
++[Crime]
++- 전반적 치안 양호
++- 차량 절도 및 소매치기 주의

@@ -1,0 +1,29 @@
+diff --git a/data/newzealand/newzealand_visa.txt b/data/newzealand/newzealand_visa.txt
+new file mode 100644
+index 0000000..2222222
+--- /dev/null
++++ b/data/newzealand/newzealand_visa.txt
+@@
++[Visa Overview]
++- 뉴질랜드 워킹홀리데이 비자
++- 체류 기간 최대 12개월
++- 관광을 주목적으로 취업 병행 가능
++
++[Eligibility]
++- 만 18세 이상 만 30세 이하
++- 대한민국 국적자
++- 과거 뉴질랜드 워홀 비자 발급 이력 없음
++- 동반 가족 입국 불가
++
++[Quota & Application]
++- 연간 쿼터 3,000명
++- 선착순 접수 방식
++- 뉴질랜드 이민성 홈페이지 온라인 신청
++
++[Financial Requirements]
++- 최소 생활비 NZD 4,200 보유 증명
++- 왕복 항공권 또는 추가 항공권 구매 자금 필요
++
++[Additional Conditions]
++- 체류 기간 전체를 커버하는 의료보험 가입 필수
++- 지정 병원에서 신체검사 요구될 수 있음

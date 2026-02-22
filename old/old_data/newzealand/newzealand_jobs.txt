@@ -1,0 +1,23 @@
+diff --git a/data/newzealand/newzealand_jobs.txt b/data/newzealand/newzealand_jobs.txt
+new file mode 100644
+index 0000000..4444444
+--- /dev/null
++++ b/data/newzealand/newzealand_jobs.txt
+@@
++[Minimum Wage]
++- 성인 최저임금: 시간당 NZD 23.50 (2025 기준)
++- 훈련생·신규 근로자 최저임금 별도 적용
++
++[Popular Jobs]
++- 카페·레스토랑·리테일
++- 호텔·리조트·관광업
++- 농장일(과일 수확, 포장, 시즌성)
++
++[Job Search]
++- seek.co.nz
++- trademe.co.nz/jobs
++- backpackerboard.co.nz
++
++[Employment Notes]
++- 급여는 시급제 또는 계약제
++- 급여 명세서(Payslip) 보관 필수

@@ -1,0 +1,19 @@
+diff --git a/data/newzealand/newzealand_return.txt b/data/newzealand/newzealand_return.txt
+new file mode 100644
+index 0000000..6666666
+--- /dev/null
++++ b/data/newzealand/newzealand_return.txt
+@@
++[Tax Return]
++- 귀국 후 세금 환급 신청 가능
++- Inland Revenue(IR) 통해 신고
++- 마지막 근무 후 소득 내역 정리 필요
++
++[Bank Account]
++- 환급금 수령 후 계좌 해지 권장
++- 해외에서도 일부 은행 온라인 관리 가능
++
++[Before Leaving]
++- 숙소 계약 종료
++- 휴대폰·구독 서비스 해지
++- 급여 명세서 및 고용 관련 서류 보관
